@@ -1,4 +1,4 @@
-Hey, I'm Darry.
+Hey, I'm Darry, 16yo kid.
 
 I enjoy learning new stuff.
 
