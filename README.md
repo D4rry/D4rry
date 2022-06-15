@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Darry
-- 🌱 I’m currently learning C
-- 📫 How to reach me ...
+Hey, I'm Darry.
 
+I enjoy learning new stuff.
+
+Learning C
